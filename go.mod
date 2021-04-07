@@ -1,4 +1,4 @@
-module github.com/TykTechnologies/mongostore
+module github.com/padiazg/mongostore
 
 go 1.16
 
